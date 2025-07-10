@@ -30,3 +30,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimkhan432&show_icons=true&locale=en" alt="ibrahimkhan432" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimkhan432&" alt="ibrahimkhan432" /></p>
+
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahimkhan432&count_private=true&theme=react-dark&hide_border=true" />
+</p>
