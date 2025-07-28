@@ -18,8 +18,8 @@
 <a href="https://linkedin.com/in/ibrahimkhan432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimkhan432" height="30" width="40" /></a>
 <a href="https://fb.com/ibrahim khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ibrahim khan" height="30" width="40" /></a>
 <a href="https://instagram.com/ibrahimkhan5353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahimkhan5353" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ibrahim khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ibrahim khan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ib432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ib432" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/ibrahim khan maths](https://www.youtube.com/watch?v=L6osEt_2wjU)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ibrahim khan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ib432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ib432" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
