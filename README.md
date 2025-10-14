@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Khan</h1>
-<h3 align="center">A passionate Full Stack developer from</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimkhan432&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimkhan432" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://ibrahimkhan.vercel.app/](https://ibrahimkhan.vercel.app/)
 
-- ⚡ Fun fact **I forgot Sleep when i code**
+- ⚡ Fun fact **I forget to Sleep when I code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
