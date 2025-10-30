@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ibrahimsheikh772@gmail.com**
 
-- 📄 Know about my experiences [https://ibrahimkhan.vercel.app/](https://ibrahimkhan.vercel.app/)
+- 📄 Know about my experiences [https://ibrahimkhan.pro/](https://ibrahimkhan.pro/)
 
 - ⚡ Fun fact **I forget to Sleep when I code**
 
