@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimkhan432" alt="ibrahimkhan432" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ibrahimkhan.vercel.app/](https://ibrahimkhan.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ibrahimkhan.pro/](https://ibrahimkhan.pro/)
 
 - 📫 How to reach me **ibrahimsheikh772@gmail.com**
 
