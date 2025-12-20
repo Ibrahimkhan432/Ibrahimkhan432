@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=1500&pause=300&color=000000&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer;" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibrahimkhan432&theme=flat&margin-w=15&no-frame=true" />
-</p>
-
 - 📝 I regularly write articles [https://medium.com/@ibrahimsheikh772/](https://medium.com/@ibrahimsheikh772/)
 - 👨‍💻 All of my projects are available at [https://ibrahimkhan.pro/](https://ibrahimkhan.pro/)
 
