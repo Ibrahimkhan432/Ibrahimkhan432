@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Khan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?
+    size=26
+    &duration=1500
+    &pause=300
+    &color=000000
+    &center=true
+    &vCenter=true
+    &width=650
+    &lines=Full+Stack+Developer;Software+Engineer"
+  />
 </p>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimkhan432" alt="ibrahimkhan432" /></a> </p>
