@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Khan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=1500&pause=300&color=000000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=1500&pause=300&color=000000&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer;" />
 </p>
 
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=ibrahimkhan432&theme=flat&margin-w=15&no-frame=true" />
+</p>
 
 
 
